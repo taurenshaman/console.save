@@ -3,7 +3,7 @@
 Add image support.
 
 ***
-#Original Description
+## Original Description
 
 This script extends the `console` object in the browser and allows you to save JSON objects to your desktop.  I find this to be very useful for web scraping.
 
